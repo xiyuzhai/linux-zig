@@ -1,2 +1,2 @@
 # linux-zig
-A minimal linux kernel kernel implementation in Zig for study purposes
+A minimal linux kernel mimick in Zig for study purposes
